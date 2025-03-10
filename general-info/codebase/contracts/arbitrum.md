@@ -1,3 +1,7 @@
+---
+description: Below are the protocol contracts for Enzyme v4 on Arbitrum.
+---
+
 # Arbitrum
 
 | Address                                                                                                                                          | Name                                         |

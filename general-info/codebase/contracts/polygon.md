@@ -1,5 +1,5 @@
 ---
-description: Below are the protocol contracts for Enzyme v4 on Ethereum.
+description: Below are the protocol contracts for Enzyme v4 on Polygon.
 ---
 
 # Polygon
