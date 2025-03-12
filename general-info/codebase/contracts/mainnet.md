@@ -87,8 +87,6 @@ description: Below are the protocol contracts for Enzyme v4 on Ethereum.
 | [https://etherscan.io/address/0xfa9a7f8f30c9bc741be5959af8cd48636a6aecc2](https://etherscan.io/address/0xfa9a7f8f30c9bc741be5959af8cd48636a6aecc2) | KilnStakingPositionParser                      |
 | [https://etherscan.io/address/0xa511ecea62f360e983829e408fc753adcadcdeae](https://etherscan.io/address/0xa511ecea62f360e983829e408fc753adcadcdeae) | LidoWithdrawalsPositionLib                     |
 | [https://etherscan.io/address/0x501083be98ebb2d75be75459accc5c5922c07f28](https://etherscan.io/address/0x501083be98ebb2d75be75459accc5c5922c07f28) | LidoWithdrawalsPositionParser                  |
-| [https://etherscan.io/address/0x016b63941df5fd92b49f861559d8b7792629419f](https://etherscan.io/address/0x016b63941df5fd92b49f861559d8b7792629419f) | LiquityDebtPositionLib                         |
-| [https://etherscan.io/address/0x55e41333d949f13c73ae99689d7137574d927d4b](https://etherscan.io/address/0x55e41333d949f13c73ae99689d7137574d927d4b) | LiquityDebtPositionParser                      |
 | [https://etherscan.io/address/0xfaf2c3db614e9d38fe05edc634848be7ff0542b9](https://etherscan.io/address/0xfaf2c3db614e9d38fe05edc634848be7ff0542b9) | ManagementFee                                  |
 | [https://etherscan.io/address/0x0edbb060a8f00f5967eecfc87c8559fa65501a3d](https://etherscan.io/address/0x0edbb060a8f00f5967eecfc87c8559fa65501a3d) | ManualValueOracleFactory                       |
 | [https://etherscan.io/address/0xb35623a479383b87da32fdde8dbe83fac5f6bf3d](https://etherscan.io/address/0xb35623a479383b87da32fdde8dbe83fac5f6bf3d) | MapleLiquidityPositionLib                      |
