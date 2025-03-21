@@ -52,6 +52,7 @@ description: Below are the protocol contracts for Enzyme v4 on Polygon.
 | [https://polygonscan.com/address/0x88c9a11c7bb8bc274388d0db864ab87c14fb78b8](https://polygonscan.com/address/0x88c9a11c7bb8bc274388d0db864ab87c14fb78b8) | EntranceRateDirectFee                        |
 | [https://polygonscan.com/address/0x79567acc4c54c23f5f449c1fbc1b54ac615df87d](https://polygonscan.com/address/0x79567acc4c54c23f5f449c1fbc1b54ac615df87d) | ERC4626Adapter                               |
 | [https://polygonscan.com/address/0xb13f73c5e333fb760a5bed668b1ff04432cadab0](https://polygonscan.com/address/0xb13f73c5e333fb760a5bed668b1ff04432cadab0) | ERC4626PriceFeed                             |
+| [https://polygonscan.com/address/0x3b5730f5ff329ac41d206eba1a2aa12d356791e8](https://polygonscan.com/address/0x3b5730f5ff329ac41d206eba1a2aa12d356791e8) | ERC4626RateAggregatorFactory                 |
 | [https://polygonscan.com/address/0x0bbb9635d12a9c022b647f379224d88874d37879](https://polygonscan.com/address/0x0bbb9635d12a9c022b647f379224d88874d37879) | ExitRateBurnFee                              |
 | [https://polygonscan.com/address/0xc5c7f7c6e5e2db074d96b440d30d7aab2c99b848](https://polygonscan.com/address/0xc5c7f7c6e5e2db074d96b440d30d7aab2c99b848) | ExitRateDirectFee                            |
 | [https://polygonscan.com/address/0x067eeea753aba0ddecca0b80bbb8b7572bf6580d](https://polygonscan.com/address/0x067eeea753aba0ddecca0b80bbb8b7572bf6580d) | ExternalPositionFactory                      |
@@ -80,6 +81,7 @@ description: Below are the protocol contracts for Enzyme v4 on Polygon.
 | [https://polygonscan.com/address/0xb665e93e19eb18ef5005f0296d4693e3154ab0df](https://polygonscan.com/address/0xb665e93e19eb18ef5005f0296d4693e3154ab0df) | ParaSwapV5Adapter                            |
 | [https://polygonscan.com/address/0x4c8026a88f1da2d299c539b8c070c1c44372d53c](https://polygonscan.com/address/0x4c8026a88f1da2d299c539b8c070c1c44372d53c) | ParaSwapV6Adapter                            |
 | [https://polygonscan.com/address/0xbfa1027ef1da99c17358cb4719a2297d67fcc5b1](https://polygonscan.com/address/0xbfa1027ef1da99c17358cb4719a2297d67fcc5b1) | PeggedDerivativesPriceFeed                   |
+| [https://polygonscan.com/address/0x124fda4b626cda9481948a86a5f8f510d8a22f4a](https://polygonscan.com/address/0x124fda4b626cda9481948a86a5f8f510d8a22f4a) | PeggedRateDeviationAggregatorFactory         |
 | [https://polygonscan.com/address/0xbc63afe28c66a6279bd3a55a4d0d3ab61f479bdf](https://polygonscan.com/address/0xbc63afe28c66a6279bd3a55a4d0d3ab61f479bdf) | PerformanceFee                               |
 | [https://polygonscan.com/address/0x5a8ee0850d22ffef4169dbd348c1b0d7d5f5546f](https://polygonscan.com/address/0x5a8ee0850d22ffef4169dbd348c1b0d7d5f5546f) | PolicyManager                                |
 | [https://polygonscan.com/address/0xe1ade612e8a568a4a060a60a22f890171d3dc63b](https://polygonscan.com/address/0xe1ade612e8a568a4a060a60a22f890171d3dc63b) | PoolTogetherV4Adapter                        |
@@ -90,6 +92,8 @@ description: Below are the protocol contracts for Enzyme v4 on Polygon.
 | [https://polygonscan.com/address/0x42637a6fe8dd32448be441a10782b4e29bfea3de](https://polygonscan.com/address/0x42637a6fe8dd32448be441a10782b4e29bfea3de) | SharePriceThrottledAssetManagerFactory       |
 | [https://polygonscan.com/address/0x65d9202b5494450310c43b6b47942305859a349c](https://polygonscan.com/address/0x65d9202b5494450310c43b6b47942305859a349c) | SharePriceThrottledAssetManagerLib           |
 | [https://polygonscan.com/address/0x1a0e3326795a77903e2a11790bd702ebb29b8944](https://polygonscan.com/address/0x1a0e3326795a77903e2a11790bd702ebb29b8944) | SharesSplitterFactory                        |
+| [https://etherscan.io/address/0xc90d0a2d50bb6e3282d4e54dbd49a6c6034b084e](https://etherscan.io/address/0xc90d0a2d50bb6e3282d4e54dbd49a6c6034b084e)       | SingleAssetDepositQueueFactory               |
+| [https://etherscan.io/address/0x9267feef36484d3cb3a8e7c9cf57da360d85e0ad](https://etherscan.io/address/0x9267feef36484d3cb3a8e7c9cf57da360d85e0ad)       | SingleAssetDepositQueueLib                   |
 | [https://polygonscan.com/address/0x4b6b342ba8bb29e2d1b542532e6b7be1cae026b9](https://polygonscan.com/address/0x4b6b342ba8bb29e2d1b542532e6b7be1cae026b9) | SingleAssetRedemptionQueueFactory            |
 | [https://polygonscan.com/address/0xe54065f5b303c2843c769fb232b95bb893cf0b87](https://polygonscan.com/address/0xe54065f5b303c2843c769fb232b95bb893cf0b87) | SingleAssetRedemptionQueueLib                |
 | [https://polygonscan.com/address/0x5a1c0e89133c4cd844a8b345370565f1368a79a8](https://polygonscan.com/address/0x5a1c0e89133c4cd844a8b345370565f1368a79a8) | ThreeOneThirdAdapter                         |

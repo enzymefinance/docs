@@ -35,6 +35,7 @@ description: Below are the protocol contracts for Enzyme v4 on Arbitrum.
 | [https://arbiscan.io/address/0x8da28441a4c594fd2fac72726c1412d8cf9e4a19](https://arbiscan.io/address/0x8da28441a4c594fd2fac72726c1412d8cf9e4a19) | Dispatcher                                   |
 | [https://arbiscan.io/address/0x6180b98d85afbd904016c7ea08eb41cba77a1c08](https://arbiscan.io/address/0x6180b98d85afbd904016c7ea08eb41cba77a1c08) | EntranceRateBurnFee                          |
 | [https://arbiscan.io/address/0xbd35b273453eb3a977f2757f92b20e8c0b33c0b2](https://arbiscan.io/address/0xbd35b273453eb3a977f2757f92b20e8c0b33c0b2) | EntranceRateDirectFee                        |
+| [https://arbiscan.io/address/0x9a61b0c7307d45e67357e0d5a0d35bca5ce96755](https://arbiscan.io/address/0x9a61b0c7307d45e67357e0d5a0d35bca5ce96755) | ERC4626RateAggregatorFactory                 |
 | [https://arbiscan.io/address/0x8bdb929f16c2ce833c3c3176ba5c607e20949010](https://arbiscan.io/address/0x8bdb929f16c2ce833c3c3176ba5c607e20949010) | ExitRateBurnFee                              |
 | [https://arbiscan.io/address/0x769c732a17f6e72d7ba0fe79ad01a31b27bbcb3d](https://arbiscan.io/address/0x769c732a17f6e72d7ba0fe79ad01a31b27bbcb3d) | ExitRateDirectFee                            |
 | [https://arbiscan.io/address/0xd44256acea2193d4a50a9ad879a531666729962c](https://arbiscan.io/address/0xd44256acea2193d4a50a9ad879a531666729962c) | ExternalPositionFactory                      |
@@ -62,11 +63,14 @@ description: Below are the protocol contracts for Enzyme v4 on Arbitrum.
 | [https://arbiscan.io/address/0xa482f4ab637cd5ca00084d511b3ca9aa8d8f475e](https://arbiscan.io/address/0xa482f4ab637cd5ca00084d511b3ca9aa8d8f475e) | OnlyUntrackDustOrPricelessAssetsPolicy       |
 | [https://arbiscan.io/address/0x08df49f617ecdccbc90d9a0f87b8c1a84b2e7cb9](https://arbiscan.io/address/0x08df49f617ecdccbc90d9a0f87b8c1a84b2e7cb9) | ParaSwapV5Adapter                            |
 | [https://arbiscan.io/address/0xd68543ec57ba6aa5c546d23dde7dbbc3b6d0222d](https://arbiscan.io/address/0xd68543ec57ba6aa5c546d23dde7dbbc3b6d0222d) | ParaSwapV6Adapter                            |
+| [https://arbiscan.io/address/0x1967681053f12e025dedcb04618abd7cd8871914](https://arbiscan.io/address/0x1967681053f12e025dedcb04618abd7cd8871914) | PeggedRateDeviationAggregatorFactory         |
 | [https://arbiscan.io/address/0x9e0f80bc5a688e93d6c57efcfdd4564f70975e8b](https://arbiscan.io/address/0x9e0f80bc5a688e93d6c57efcfdd4564f70975e8b) | PerformanceFee                               |
 | [https://arbiscan.io/address/0xbde1e8c4a061cd28f4871860ddf22200b85ee9ec](https://arbiscan.io/address/0xbde1e8c4a061cd28f4871860ddf22200b85ee9ec) | PolicyManager                                |
 | [https://arbiscan.io/address/0x642986a6bc5ec518cfb97d8afa5a7fa8477d3cf5](https://arbiscan.io/address/0x642986a6bc5ec518cfb97d8afa5a7fa8477d3cf5) | ProtocolFeeReserveLib                        |
 | [https://arbiscan.io/address/0x9eb802e7696c9951fdcba90699e5000d7a39205c](https://arbiscan.io/address/0x9eb802e7696c9951fdcba90699e5000d7a39205c) | ProtocolFeeReserveProxy                      |
 | [https://arbiscan.io/address/0xe71227d6d846e0fb3367d020683327031c4c4a3d](https://arbiscan.io/address/0xe71227d6d846e0fb3367d020683327031c4c4a3d) | ProtocolFeeTracker                           |
+| [https://arbiscan.io/address/0x78c89968b121e64fa559f3b4ed1b35222a42c059](https://arbiscan.io/address/0x78c89968b121e64fa559f3b4ed1b35222a42c059) | SingleAssetDepositQueueFactory               |
+| [https://arbiscan.io/address/0x969ea85f65677daa9552b8530a47511286894a5a](https://arbiscan.io/address/0x969ea85f65677daa9552b8530a47511286894a5a) | SingleAssetDepositQueueLib                   |
 | [https://arbiscan.io/address/0xb658a26ec9638051a42160bb02319fed12299b25](https://arbiscan.io/address/0xb658a26ec9638051a42160bb02319fed12299b25) | SingleAssetRedemptionQueueFactory            |
 | [https://arbiscan.io/address/0x137ac14e27de154e6a0a260570259f8cef436ba4](https://arbiscan.io/address/0x137ac14e27de154e6a0a260570259f8cef436ba4) | SingleAssetRedemptionQueueLib                |
 | [https://arbiscan.io/address/0x92da9df390d3e9199d105289b297eca357ecc9b7](https://arbiscan.io/address/0x92da9df390d3e9199d105289b297eca357ecc9b7) | TheGraphDelegationPositionLib                |
