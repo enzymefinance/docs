@@ -103,6 +103,7 @@ description: Below are the protocol contracts for Enzyme v4 on Ethereum.
 | [https://etherscan.io/address/0x966ec191ed9e026cb6f7e22bb2a284bad6a2838d](https://etherscan.io/address/0x966ec191ed9e026cb6f7e22bb2a284bad6a2838d) | OnlyRemoveDustExternalPositionPolicy           |
 | [https://etherscan.io/address/0x747beaee139fba4a89fa71bebb5f21231530292b](https://etherscan.io/address/0x747beaee139fba4a89fa71bebb5f21231530292b) | OnlyUntrackDustOrPricelessAssetsPolicy         |
 | [https://etherscan.io/address/0x871a7f0ef4917a1534e651d1fde3763a52a23ece](https://etherscan.io/address/0x871a7f0ef4917a1534e651d1fde3763a52a23ece) | ParaSwapV5Adapter                              |
+| [https://etherscan.io/address/0xb3ec98d4a608577289e442474832b7f69540e16](https://etherscan.io/address/0xb3ec98d4a608577289e442474832b7f69540e169)  | ParaSwapV6Adapter                              |
 | [https://etherscan.io/address/0x86533352bdd201c89f184f7ebbfebea3e31c8bb3](https://etherscan.io/address/0x86533352bdd201c89f184f7ebbfebea3e31c8bb3) | PeggedDerivativesPriceFeed                     |
 | [https://etherscan.io/address/0x31391adf6402fdd4eb4b57801a612b0987a0b0f2](https://etherscan.io/address/0x31391adf6402fdd4eb4b57801a612b0987a0b0f2) | PendleMarketsRegistry                          |
 | [https://etherscan.io/address/0xe77ba2e88aae1543839ec6ee0a0f847391205610](https://etherscan.io/address/0xe77ba2e88aae1543839ec6ee0a0f847391205610) | PendleV2Adapter                                |

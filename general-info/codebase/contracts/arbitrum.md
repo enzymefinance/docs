@@ -61,6 +61,7 @@ description: Below are the protocol contracts for Enzyme v4 on Arbitrum.
 | [https://arbiscan.io/address/0xe4453105be9e579896a3ed73df9a1e285c8c95c2](https://arbiscan.io/address/0xe4453105be9e579896a3ed73df9a1e285c8c95c2) | OnlyRemoveDustExternalPositionPolicy         |
 | [https://arbiscan.io/address/0xa482f4ab637cd5ca00084d511b3ca9aa8d8f475e](https://arbiscan.io/address/0xa482f4ab637cd5ca00084d511b3ca9aa8d8f475e) | OnlyUntrackDustOrPricelessAssetsPolicy       |
 | [https://arbiscan.io/address/0x08df49f617ecdccbc90d9a0f87b8c1a84b2e7cb9](https://arbiscan.io/address/0x08df49f617ecdccbc90d9a0f87b8c1a84b2e7cb9) | ParaSwapV5Adapter                            |
+| [https://arbiscan.io/address/0xd68543ec57ba6aa5c546d23dde7dbbc3b6d0222d](https://arbiscan.io/address/0xd68543ec57ba6aa5c546d23dde7dbbc3b6d0222d) | ParaSwapV6Adapter                            |
 | [https://arbiscan.io/address/0x9e0f80bc5a688e93d6c57efcfdd4564f70975e8b](https://arbiscan.io/address/0x9e0f80bc5a688e93d6c57efcfdd4564f70975e8b) | PerformanceFee                               |
 | [https://arbiscan.io/address/0xbde1e8c4a061cd28f4871860ddf22200b85ee9ec](https://arbiscan.io/address/0xbde1e8c4a061cd28f4871860ddf22200b85ee9ec) | PolicyManager                                |
 | [https://arbiscan.io/address/0x642986a6bc5ec518cfb97d8afa5a7fa8477d3cf5](https://arbiscan.io/address/0x642986a6bc5ec518cfb97d8afa5a7fa8477d3cf5) | ProtocolFeeReserveLib                        |

@@ -78,6 +78,7 @@ description: Below are the protocol contracts for Enzyme v4 on Polygon.
 | [https://polygonscan.com/address/0xc0f49507c125a000e02ab58c22be9764e2abab99](https://polygonscan.com/address/0xc0f49507c125a000e02ab58c22be9764e2abab99) | OnlyRemoveDustExternalPositionPolicy         |
 | [https://polygonscan.com/address/0x9f856372f7bd844dac0254c7859b117259b5c9d2](https://polygonscan.com/address/0x9f856372f7bd844dac0254c7859b117259b5c9d2) | OnlyUntrackDustOrPricelessAssetsPolicy       |
 | [https://polygonscan.com/address/0xb665e93e19eb18ef5005f0296d4693e3154ab0df](https://polygonscan.com/address/0xb665e93e19eb18ef5005f0296d4693e3154ab0df) | ParaSwapV5Adapter                            |
+| [https://polygonscan.com/address/0x4c8026a88f1da2d299c539b8c070c1c44372d53c](https://polygonscan.com/address/0x4c8026a88f1da2d299c539b8c070c1c44372d53c) | ParaSwapV6Adapter                            |
 | [https://polygonscan.com/address/0xbfa1027ef1da99c17358cb4719a2297d67fcc5b1](https://polygonscan.com/address/0xbfa1027ef1da99c17358cb4719a2297d67fcc5b1) | PeggedDerivativesPriceFeed                   |
 | [https://polygonscan.com/address/0xbc63afe28c66a6279bd3a55a4d0d3ab61f479bdf](https://polygonscan.com/address/0xbc63afe28c66a6279bd3a55a4d0d3ab61f479bdf) | PerformanceFee                               |
 | [https://polygonscan.com/address/0x5a8ee0850d22ffef4169dbd348c1b0d7d5f5546f](https://polygonscan.com/address/0x5a8ee0850d22ffef4169dbd348c1b0d7d5f5546f) | PolicyManager                                |
