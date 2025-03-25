@@ -107,10 +107,7 @@ description: Below are the protocol contracts for Enzyme v4 on Ethereum.
 | [https://etherscan.io/address/0xb3ec98d4a608577289e442474832b7f69540e16](https://etherscan.io/address/0xb3ec98d4a608577289e442474832b7f69540e169)   | ParaSwapV6Adapter                              |
 | [https://etherscan.io/address/0x86533352bdd201c89f184f7ebbfebea3e31c8bb3](https://etherscan.io/address/0x86533352bdd201c89f184f7ebbfebea3e31c8bb3)  | PeggedDerivativesPriceFeed                     |
 | [https://etherscan.io/address/0xd71894348d0b068af066a6f7b093809a8ad10d98](https://etherscan.io/address/0xd71894348d0b068af066a6f7b093809a8ad10d98)  | PeggedRateDeviationAggregatorFactory           |
-| [https://etherscan.io/address/0x31391adf6402fdd4eb4b57801a612b0987a0b0f2](https://etherscan.io/address/0x31391adf6402fdd4eb4b57801a612b0987a0b0f2)  | PendleMarketsRegistry                          |
 | [https://etherscan.io/address/0xe77ba2e88aae1543839ec6ee0a0f847391205610](https://etherscan.io/address/0xe77ba2e88aae1543839ec6ee0a0f847391205610)  | PendleV2Adapter                                |
-| [https://etherscan.io/address/0x85c474a1dbf7fdc22c592382ad554bb42cebce0b](https://etherscan.io/address/0x85c474a1dbf7fdc22c592382ad554bb42cebce0b)  | PendleV2PositionLib                            |
-| [https://etherscan.io/address/0x559af4e5765d60003e4895d23080c501cbb9ed3c](https://etherscan.io/address/0x559af4e5765d60003e4895d23080c501cbb9ed3c)  | PendleV2PositionParser                         |
 | [https://etherscan.io/address/0xfedc73464dfd156d30f6524654a5d56e766da0c3](https://etherscan.io/address/0xfedc73464dfd156d30f6524654a5d56e766da0c3)  | PerformanceFee                                 |
 | [https://etherscan.io/address/0xadf5a8db090627b153ef0c5726ccfdc1c7aed7bd](https://etherscan.io/address/0xadf5a8db090627b153ef0c5726ccfdc1c7aed7bd)  | PolicyManager                                  |
 | [https://etherscan.io/address/0xa0ed89af63367ddc8e1dd6b992f20d1214ccb51c](https://etherscan.io/address/0xa0ed89af63367ddc8e1dd6b992f20d1214ccb51c)  | ProtocolFeeReserveLib                          |
