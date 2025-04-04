@@ -120,6 +120,7 @@ description: Below are the protocol contracts for Enzyme v4 on Ethereum.
 | [https://etherscan.io/address/0x9267feef36484d3cb3a8e7c9cf57da360d85e0ad](https://etherscan.io/address/0x9267feef36484d3cb3a8e7c9cf57da360d85e0ad)  | SingleAssetDepositQueueLib                     |
 | [https://etherscan.io/address/0xfe84d5209054254389c9d6a754b821f3a297d56a](https://etherscan.io/address/0xfe84d5209054254389c9d6a754b821f3a297d56a)  | SingleAssetRedemptionQueueFactory              |
 | [https://etherscan.io/address/0x0012b7c26b8c081a29a61cd52526cf6305367968](https://etherscan.io/address/0x0012b7c26b8c081a29a61cd52526cf6305367968)  | SingleAssetRedemptionQueueLib                  |
+| [https://etherscan.io/address/0xd5004c5d3017862839e83981b110f27ee7b36eaa](https://etherscan.io/address/0xd5004c5d3017862839e83981b110f27ee7b36eaa)  | SmarDexUsdnNativeRateUsdAggregator             |
 | [https://etherscan.io/address/0x0e7d828f9f9a3ce152d39f21f2e2d0ff89448b6b](https://etherscan.io/address/0x0e7d828f9f9a3ce152d39f21f2e2d0ff89448b6b)  | SolvV2BondBuyerPositionLib                     |
 | [https://etherscan.io/address/0xa2ed786215d6f4da95338ee7abb84f28134dc19c](https://etherscan.io/address/0xa2ed786215d6f4da95338ee7abb84f28134dc19c)  | SolvV2BondBuyerPositionParser                  |
 | [https://etherscan.io/address/0x31c30bacb054f5db7f5bc96850b488440abb8991](https://etherscan.io/address/0x31c30bacb054f5db7f5bc96850b488440abb8991)  | SolvV2BondIssuerPositionLib                    |
