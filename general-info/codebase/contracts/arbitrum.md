@@ -35,6 +35,8 @@ description: Below are the protocol contracts for Enzyme v4 on Arbitrum.
 | [https://arbiscan.io/address/0x8da28441a4c594fd2fac72726c1412d8cf9e4a19](https://arbiscan.io/address/0x8da28441a4c594fd2fac72726c1412d8cf9e4a19) | Dispatcher                                   |
 | [https://arbiscan.io/address/0x6180b98d85afbd904016c7ea08eb41cba77a1c08](https://arbiscan.io/address/0x6180b98d85afbd904016c7ea08eb41cba77a1c08) | EntranceRateBurnFee                          |
 | [https://arbiscan.io/address/0xbd35b273453eb3a977f2757f92b20e8c0b33c0b2](https://arbiscan.io/address/0xbd35b273453eb3a977f2757f92b20e8c0b33c0b2) | EntranceRateDirectFee                        |
+| [https://arbiscan.io/address/0x1b905b0ab56c82b3e5d3f2e600a07b8e54748977](https://arbiscan.io/address/0x1b905b0ab56c82b3e5d3f2e600a07b8e54748977) | EnzymeVaultPriceFeed                         |
+| [https://arbiscan.io/address/0xc7bde79a2a02fa20f18f7c3ffefdd3f6ef3790d8](https://arbiscan.io/address/0xc7bde79a2a02fa20f18f7c3ffefdd3f6ef3790d8) | EnzymeV4VaultAdapter                         |
 | [https://arbiscan.io/address/0x9a61b0c7307d45e67357e0d5a0d35bca5ce96755](https://arbiscan.io/address/0x9a61b0c7307d45e67357e0d5a0d35bca5ce96755) | ERC4626RateAggregatorFactory                 |
 | [https://arbiscan.io/address/0x8bdb929f16c2ce833c3c3176ba5c607e20949010](https://arbiscan.io/address/0x8bdb929f16c2ce833c3c3176ba5c607e20949010) | ExitRateBurnFee                              |
 | [https://arbiscan.io/address/0x769c732a17f6e72d7ba0fe79ad01a31b27bbcb3d](https://arbiscan.io/address/0x769c732a17f6e72d7ba0fe79ad01a31b27bbcb3d) | ExitRateDirectFee                            |

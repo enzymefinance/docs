@@ -50,6 +50,8 @@ description: Below are the protocol contracts for Enzyme v4 on Polygon.
 | [https://polygonscan.com/address/0x2e25271297537b8124b8f883a92ffd95c4032733](https://polygonscan.com/address/0x2e25271297537b8124b8f883a92ffd95c4032733) | Dispatcher                                   |
 | [https://polygonscan.com/address/0x01460ba35cb6f847d65c5eee124e7e9e10055f16](https://polygonscan.com/address/0x01460ba35cb6f847d65c5eee124e7e9e10055f16) | EntranceRateBurnFee                          |
 | [https://polygonscan.com/address/0x88c9a11c7bb8bc274388d0db864ab87c14fb78b8](https://polygonscan.com/address/0x88c9a11c7bb8bc274388d0db864ab87c14fb78b8) | EntranceRateDirectFee                        |
+| [https://polygonscan.com/address/0xd723241915bb1d3ac829cdef656ffdbb87ca0cf1](https://polygonscan.com/address/0xd723241915bb1d3ac829cdef656ffdbb87ca0cf1) | EnzymeVaultPriceFeed                         |
+| [https://polygonscan.com/address/0x51b47d3dbef6ff6e1fd7a5054ff75d19e07d7f56](https://polygonscan.com/address/0x51b47d3dbef6ff6e1fd7a5054ff75d19e07d7f56) | EnzymeV4VaultAdapter                         |
 | [https://polygonscan.com/address/0x79567acc4c54c23f5f449c1fbc1b54ac615df87d](https://polygonscan.com/address/0x79567acc4c54c23f5f449c1fbc1b54ac615df87d) | ERC4626Adapter                               |
 | [https://polygonscan.com/address/0xb13f73c5e333fb760a5bed668b1ff04432cadab0](https://polygonscan.com/address/0xb13f73c5e333fb760a5bed668b1ff04432cadab0) | ERC4626PriceFeed                             |
 | [https://polygonscan.com/address/0x3b5730f5ff329ac41d206eba1a2aa12d356791e8](https://polygonscan.com/address/0x3b5730f5ff329ac41d206eba1a2aa12d356791e8) | ERC4626RateAggregatorFactory                 |

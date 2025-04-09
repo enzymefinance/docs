@@ -63,6 +63,8 @@ description: Below are the protocol contracts for Enzyme v4 on Ethereum.
 | [https://etherscan.io/address/0xc3dc853dd716bd5754f421ef94fdcbac3902ab32](https://etherscan.io/address/0xc3dc853dd716bd5754f421ef94fdcbac3902ab32)  | Dispatcher                                     |
 | [https://etherscan.io/address/0xcdec5bbecc6d2c004d5378a63a3c484c2643ed9d](https://etherscan.io/address/0xcdec5bbecc6d2c004d5378a63a3c484c2643ed9d)  | EntranceRateBurnFee                            |
 | [https://etherscan.io/address/0xfb8df7d5e320020cd8047226b81cf6d68f3e3c19](https://etherscan.io/address/0xfb8df7d5e320020cd8047226b81cf6d68f3e3c19)  | EntranceRateDirectFee                          |
+| [https://etherscan.io/address/0x2a07500d96f324d615bd545b921faefdd97c5ad3](https://etherscan.io/address/0x2a07500d96f324d615bd545b921faefdd97c5ad3)  | EnzymeVaultPriceFeed                           |
+| [https://etherscan.io/address/0x2b4fdcba08e5961c6a129b9fe13ecd10cdc249ce](https://etherscan.io/address/0x2b4fdcba08e5961c6a129b9fe13ecd10cdc249ce)  | EnzymeV4VaultAdapter                           |
 | [https://etherscan.io/address/0x64fa106dd89f21d6e687eebe9384637f7d54f707](https://etherscan.io/address/0x64fa106dd89f21d6e687eebe9384637f7d54f707)  | ERC4626Adapter                                 |
 | [https://etherscan.io/address/0x66aa5b2fdfb453f8a27f9bd1d9124947ef3886bb](https://etherscan.io/address/0x66aa5b2fdfb453f8a27f9bd1d9124947ef3886bb)  | ERC4626PriceFeed                               |
 | [https://etherscan.io/address/0x00f64bd22a69f429632e1469c9c812e9f70e4f11 ](https://etherscan.io/address/0x00f64bd22a69f429632e1469c9c812e9f70e4f11) | ERC4626RateAggregatorFactory                   |
@@ -121,6 +123,7 @@ description: Below are the protocol contracts for Enzyme v4 on Ethereum.
 | [https://etherscan.io/address/0xfe84d5209054254389c9d6a754b821f3a297d56a](https://etherscan.io/address/0xfe84d5209054254389c9d6a754b821f3a297d56a)  | SingleAssetRedemptionQueueFactory              |
 | [https://etherscan.io/address/0x0012b7c26b8c081a29a61cd52526cf6305367968](https://etherscan.io/address/0x0012b7c26b8c081a29a61cd52526cf6305367968)  | SingleAssetRedemptionQueueLib                  |
 | [https://etherscan.io/address/0xd5004c5d3017862839e83981b110f27ee7b36eaa](https://etherscan.io/address/0xd5004c5d3017862839e83981b110f27ee7b36eaa)  | SmarDexUsdnNativeRateUsdAggregator             |
+| [ https://etherscan.io/address/0x877f7a1c58ae061cbe6a207fd0379571c45f555a](https://etherscan.io/address/0x877f7a1c58ae061cbe6a207fd0379571c45f555a) | SolvBtcYieldTokenRateUsdAggregatorFactory      |
 | [https://etherscan.io/address/0x0e7d828f9f9a3ce152d39f21f2e2d0ff89448b6b](https://etherscan.io/address/0x0e7d828f9f9a3ce152d39f21f2e2d0ff89448b6b)  | SolvV2BondBuyerPositionLib                     |
 | [https://etherscan.io/address/0xa2ed786215d6f4da95338ee7abb84f28134dc19c](https://etherscan.io/address/0xa2ed786215d6f4da95338ee7abb84f28134dc19c)  | SolvV2BondBuyerPositionParser                  |
 | [https://etherscan.io/address/0x31c30bacb054f5db7f5bc96850b488440abb8991](https://etherscan.io/address/0x31c30bacb054f5db7f5bc96850b488440abb8991)  | SolvV2BondIssuerPositionLib                    |
