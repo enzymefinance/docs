@@ -80,7 +80,7 @@ description: Below are the protocol contracts for Enzyme v4 on Ethereum.
 | [https://etherscan.io/address/0x490e64e0690b4aa481fb02255aed3d052bad7bf1](https://etherscan.io/address/0x490e64e0690b4aa481fb02255aed3d052bad7bf1)  | FundValueCalculator                            |
 | [https://etherscan.io/address/0x7c728cd0cfa92401e01a4849a01b57ee53f5b2b9](https://etherscan.io/address/0x7c728cd0cfa92401e01a4849a01b57ee53f5b2b9)  | FundValueCalculatorRouter                      |
 | [https://etherscan.io/address/0x846bbe1925047023651de7ec289f329c24ded3a8](https://etherscan.io/address/0x846bbe1925047023651de7ec289f329c24ded3a8)  | GasRelayPaymasterFactory                       |
-| [https://etherscan.io/address/0x2f1d153dd821258caa15656bde910e146e5f2f77](https://etherscan.io/address/0x2f1d153dd821258caa15656bde910e146e5f2f77)  | GasRelayPaymasterLib                           |
+| [https://etherscan.io/address/0x131c220c18874e32ABbe945eb8AA998B84f63625](https://etherscan.io/address/0x131c220c18874e32ABbe945eb8AA998B84f63625)  | GasRelayPaymasterLib                           |
 | [https://etherscan.io/address/0x73b9c40530311b49b526f230d01bdf5725b3290d](https://etherscan.io/address/0x73b9c40530311b49b526f230d01bdf5725b3290d)  | GatedRedemptionQueueSharesWrapperFactory       |
 | [https://etherscan.io/address/0xe971375e3e8af54232f9b7c88cce143edf95c272](https://etherscan.io/address/0xe971375e3e8af54232f9b7c88cce143edf95c272)  | GatedRedemptionQueueSharesWrapperLib           |
 | [https://etherscan.io/address/0x6682e70860d48a039f52daccda917250349a3fb3](https://etherscan.io/address/0x6682e70860d48a039f52daccda917250349a3fb3)  | GlobalConfigLib                                |
