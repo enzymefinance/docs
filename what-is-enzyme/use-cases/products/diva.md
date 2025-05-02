@@ -38,7 +38,7 @@ No. Deposits shall be made following the Enzyme UI without sending funds directl
 You can send an email to diva@enzyme.finance. You’ll receive an answer within 24h. In case of technical issues, please consider adding the following details:&#x20;
 
 * Wallet address used for deposit.
-* Type of wallet (e.g., Metamask, Gnosis, Ledger).
+* Type of wallet (e.g., Metamask, Safe, Ledger).
 * Connection method (e.g., via WalletConnect, Ledger through Metamask).
 * Steps you took when the issue occurred.
 * Any screenshots of the error you witnessed.
@@ -49,7 +49,7 @@ You can see the TVL on the [stETH vault here](https://diva-steth.enzyme.communit
 
 You can see the TVL on the [ETH vault here](https://diva-eth.enzyme.community/vault/0x16770d642e882e1769ce4ac8612b8bc0601506fc?currency=ETH)
 
-### I can’t sign the special T\&Cs with my Gnosis Safe. How do I do it?
+### I can’t sign the special T\&Cs with my Safe. How do I do it?
 
 If your Safe is doing on-chain signatures, it will not work. You will need to do off-chain signatures. You should be able to change this in “Settings” -> “Safe Apps” -> “Signing Method”, which should be left unchecked. \
 
