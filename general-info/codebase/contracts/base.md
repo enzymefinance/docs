@@ -10,7 +10,7 @@ description: Below are the protocol contracts for Enzyme v4 on Base.
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | [https://basescan.org/address/0xc16db2e93492e3ea512edc90787538652ec5c099](https://basescan.org/address/0xc16db2e93492e3ea512edc90787538652ec5c099) | AaveV3Adapter                                |
 | [https://basescan.org/address/0xceb47861043a70f8520d761e2ccf42edcc941512](https://basescan.org/address/0xceb47861043a70f8520d761e2ccf42edcc941512) | AaveV3ATokenListOwner                        |
-| [https://basescan.org/address/0x5c6adf32e432e4eac7e70dd99f8d358c8dc3b762](https://basescan.org/address/0x5c6adf32e432e4eac7e70dd99f8d358c8dc3b762) | AaveV3DebtPositionLib                        |
+| [https://basescan.org/address/0x5fe2db5abbb9fd2f840a51916abbda451151e56f](https://basescan.org/address/0x5fe2db5abbb9fd2f840a51916abbda451151e56f) | AaveV3DebtPositionLib                        |
 | [https://basescan.org/address/0x55b3236b72583abf94e9f7e83204965e243b7f07](https://basescan.org/address/0x55b3236b72583abf94e9f7e83204965e243b7f07) | AaveV3DebtPositionParser                     |
 | [https://basescan.org/address/0x2701ff78e93091b1285289a611838dd52fc07f4e](https://basescan.org/address/0x2701ff78e93091b1285289a611838dd52fc07f4e) | AaveV3FlashLoanAssetManagerFactory           |
 | [https://basescan.org/address/0x89898c38d584166a8ed5c10cbd0ce7f4b0058c6c](https://basescan.org/address/0x89898c38d584166a8ed5c10cbd0ce7f4b0058c6c) | AaveV3FlashLoanAssetManagerLib               |

@@ -13,7 +13,7 @@ description: Below are the protocol contracts for Enzyme v4 on Polygon.
 | [https://polygonscan.com/address/0x6d5b95aa342f77e4825496334195e9c1c7d3208b](https://polygonscan.com/address/0x6d5b95aa342f77e4825496334195e9c1c7d3208b) | AaveV2ATokenListOwner                        |
 | [https://polygonscan.com/address/0xb3b21dfa60b399ad00587b845aef7476a1659e9f](https://polygonscan.com/address/0xb3b21dfa60b399ad00587b845aef7476a1659e9f) | AaveV3Adapter                                |
 | [https://polygonscan.com/address/0xeffb0467247b01e944203246694afb64d4af69ce](https://polygonscan.com/address/0xeffb0467247b01e944203246694afb64d4af69ce) | AaveV3ATokenListOwner                        |
-| [https://polygonscan.com/address/0xc57f2046e3306893a0f5f6a269710da42a2c5164](https://polygonscan.com/address/0xc57f2046e3306893a0f5f6a269710da42a2c5164) | AaveV3DebtPositionLib                        |
+| [https://polygonscan.com/address/0x3072cd10447605b66da7641f74cf5372eaace31a](https://polygonscan.com/address/0x3072cd10447605b66da7641f74cf5372eaace31a) | AaveV3DebtPositionLib                        |
 | [https://polygonscan.com/address/0x538e6f54d7d9665ffec65d40ae610330eb038fcc](https://polygonscan.com/address/0x538e6f54d7d9665ffec65d40ae610330eb038fcc) | AaveV3DebtPositionParser                     |
 | [https://polygonscan.com/address/0xc393aab83371350e6c002b1c2db75c4f6b56308c](https://polygonscan.com/address/0xc393aab83371350e6c002b1c2db75c4f6b56308c) | AaveV3FlashLoanAssetManagerFactory           |
 | [https://polygonscan.com/address/0x12534065db54c01a73857febc6a0a9225b53309c](https://polygonscan.com/address/0x12534065db54c01a73857febc6a0a9225b53309c) | AaveV3FlashLoanAssetManagerLib               |

@@ -8,7 +8,7 @@ description: Below are the protocol contracts for Enzyme v4 on Arbitrum.
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
 | [https://arbiscan.io/address/0xd0c6b9801fc1e70945f11b3f93340dcc7507fd7c](https://arbiscan.io/address/0xd0c6b9801fc1e70945f11b3f93340dcc7507fd7c) | AaveV3Adapter                                |
 | [https://arbiscan.io/address/0x575af64231a91b3a954d5e45a57187ace6549c81](https://arbiscan.io/address/0x575af64231a91b3a954d5e45a57187ace6549c81) | AaveV3ATokenListOwner                        |
-| [https://arbiscan.io/address/0x6ef082e4041030dca3ae728a6d60d137404bda35](https://arbiscan.io/address/0x6ef082e4041030dca3ae728a6d60d137404bda35) | AaveV3DebtPositionLib                        |
+| [https://arbiscan.io/address/0x5fe2db5abbb9fd2f840a51916abbda451151e56f](https://arbiscan.io/address/0x5fe2db5abbb9fd2f840a51916abbda451151e56f) | AaveV3DebtPositionLib                        |
 | [https://arbiscan.io/address/0xa4fc3fa736b812ee086c75c442d568a2cd48cd59](https://arbiscan.io/address/0xa4fc3fa736b812ee086c75c442d568a2cd48cd59) | AaveV3DebtPositionParser                     |
 | [https://arbiscan.io/address/0xb49f8c0ce9df900e024dab48952bb8a8992c1795](https://arbiscan.io/address/0xb49f8c0ce9df900e024dab48952bb8a8992c1795) | AaveV3FlashLoanAssetManagerFactory           |
 | [https://arbiscan.io/address/0xd38c8c77b250d80e743013c4019d02f6cc85b80e](https://arbiscan.io/address/0xd38c8c77b250d80e743013c4019d02f6cc85b80e) | AaveV3FlashLoanAssetManagerLib               |

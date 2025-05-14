@@ -13,7 +13,7 @@ description: Below are the protocol contracts for Enzyme v4 on Ethereum.
 | [https://etherscan.io/address/0x26cd328f2bdfe13a99b7e2fc19bbdcb4d8b54d69](https://etherscan.io/address/0x26cd328f2bdfe13a99b7e2fc19bbdcb4d8b54d69)  | AaveV2ATokenListOwner                          |
 | [https://etherscan.io/address/0x9cfb64d91ce4eb821ff8edc1c2fda2e89e256707](https://etherscan.io/address/0x9cfb64d91ce4eb821ff8edc1c2fda2e89e256707)  | AaveV3Adapter                                  |
 | [https://etherscan.io/address/0xcfe249a7ae4619980eea1a2d83a26a5e7281ebb0](https://etherscan.io/address/0xcfe249a7ae4619980eea1a2d83a26a5e7281ebb0)  | AaveV3ATokenListOwner                          |
-| [https://etherscan.io/address/0x61a063484d5c124b23740aa27688e2b0ccb562d5](https://etherscan.io/address/0x61a063484d5c124b23740aa27688e2b0ccb562d5)  | AaveV3DebtPositionLib                          |
+| [https://etherscan.io/address/0xe72bb3a93ad2409055d5813bb8ae483533bd0438](https://etherscan.io/address/0xe72bb3a93ad2409055d5813bb8ae483533bd0438)  | AaveV3DebtPositionLib                          |
 | [https://etherscan.io/address/0x81c2a0ac95549ff0f0fa2d8c3136cc8d4b2439e3](https://etherscan.io/address/0x81c2a0ac95549ff0f0fa2d8c3136cc8d4b2439e3)  | AaveV3DebtPositionParser                       |
 | [https://etherscan.io/address/0xd6e8b30214ef909421eb1d20e5b281777810004a](https://etherscan.io/address/0xd6e8b30214ef909421eb1d20e5b281777810004a)  | AaveV3FlashLoanAssetManagerFactory             |
 | [https://etherscan.io/address/0x8aa6f11fef40eb24c2f77de538f40ac8a9ec9f0d](https://etherscan.io/address/0x8aa6f11fef40eb24c2f77de538f40ac8a9ec9f0d)  | AaveV3FlashLoanAssetManagerLib                 |
@@ -165,5 +165,5 @@ description: Below are the protocol contracts for Enzyme v4 on Ethereum.
 | [https://etherscan.io/address/0xc4701abc4e1ae1ac028f98c0fa9395603bd079e1](https://etherscan.io/address/0xc4701abc4e1ae1ac028f98c0fa9395603bd079e1)  | ZeroLendLRTBTCAaveV3DebtPositionParser         |
 | [https://etherscan.io/address/0x8525b3b6179690b74d7f067f131f780a3ef1562c](https://etherscan.io/address/0x8525b3b6179690b74d7f067f131f780a3ef1562c)  | ZeroLendRWAStablecoinsAaveV3Adapter            |
 | [https://etherscan.io/address/0x55c3498ee0d5c79b034554f301d8a799bae7d278](https://etherscan.io/address/0x55c3498ee0d5c79b034554f301d8a799bae7d278)  | ZeroLendRWAStablecoinsAaveV3ATokenListOwner    |
-| [https://etherscan.io/address/0x81936cd39aa737feed06ee6e7ef8ac49c63b99c6](https://etherscan.io/address/0x81936cd39aa737feed06ee6e7ef8ac49c63b99c6)  | ZeroLendRWAStablecoinsAaveV3DebtPositionLib    |
+| [https://etherscan.io/address/0x105496647691d0fed88293dbd8b0da32d902f1b8](https://etherscan.io/address/0x105496647691d0fed88293dbd8b0da32d902f1b8)  | ZeroLendRWAStablecoinsAaveV3DebtPositionLib    |
 | [https://etherscan.io/address/0x05d10e09b4fbca7e1dac9bf1fda804acc19ec4c7](https://etherscan.io/address/0x05d10e09b4fbca7e1dac9bf1fda804acc19ec4c7)  | ZeroLendRWAStablecoinsAaveV3DebtPositionParser |
