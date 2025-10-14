@@ -146,7 +146,7 @@ description: Below are the protocol contracts for Enzyme v4 on Ethereum.
 | [https://etherscan.io/address/0xe0309fa2412b811a0bd40a73297093707259217f](https://etherscan.io/address/0xe0309fa2412b811a0bd40a73297093707259217f)  | TransferAssetsAdapter                          |
 | [https://etherscan.io/address/0x6ffd6fc068e7b365af18da4fdc39d3289159407b](https://etherscan.io/address/0x6ffd6fc068e7b365af18da4fdc39d3289159407b)  | UintListRegistry                               |
 | [https://etherscan.io/address/0x8c36435a653041bfd65515cc82502663c1ce6f0e](https://etherscan.io/address/0x8c36435a653041bfd65515cc82502663c1ce6f0e)  | UniswapV2ExchangeAdapter                       |
-| [https://etherscan.io/address/0xf78130afeda6d9df3394b34d36239aec7fae48d9](https://etherscan.io/address/0xf78130afeda6d9df3394b34d36239aec7fae48d9)  | UniswapV2LiquidityAdapter                      |
+| [https://etherscan.io/address/0x268001925c06B9BeEEeE6F15C8340DB0Cb38DCa3](https://etherscan.io/address/0x268001925c06B9BeEEeE6F15C8340DB0Cb38DCa3)  | UniswapV2LiquidityAdapter                      |
 | [https://etherscan.io/address/0xdbc1162ea1ab770f0ba5fb494e0010e68351e3b0](https://etherscan.io/address/0xdbc1162ea1ab770f0ba5fb494e0010e68351e3b0)  | UniswapV2PoolPriceFeed                         |
 | [https://etherscan.io/address/0xed6a08e05cb4260388dc7cc60bc5fefccfab2793](https://etherscan.io/address/0xed6a08e05cb4260388dc7cc60bc5fefccfab2793)  | UniswapV3Adapter                               |
 | [https://etherscan.io/address/0x20a2d4765be139475c34db7b7d856dcf25092c26](https://etherscan.io/address/0x20a2d4765be139475c34db7b7d856dcf25092c26)  | UniswapV3LiquidityPositionLib                  |
